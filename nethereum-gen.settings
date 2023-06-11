@@ -1,0 +1,7 @@
+{
+    "projectName": "ERC_721",
+    "namespace": "ERC_721.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}

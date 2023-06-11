@@ -1,0 +1,27 @@
+{
+  "name": "image1",
+  "description": "image1 good",
+  "image": "http://ipfs.io/ipfs/QmNqv32DBXDM5MESFLziB36jjBwi8pxau3dk3fz4N7qV7P",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed3",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed2",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed4",
+      "value": 2,
+      "max_value": 10
+    }
+  ]
+}
